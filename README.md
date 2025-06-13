@@ -53,8 +53,11 @@
 
 ## Projets
 ### Application d'aide a la randonée (Java Android) 
+
 Le projet vise à intégrer un système de mise à jour automatique dans une application mobile de randonnée déjà existante. L’objectif est de permettre l’évolution continue de l’application en assurant l’installation fluide et sans intervention manuelle des nouvelles fonctionnalités et des corrections de bugs. Il s'agit de rendre l'application plus dynamique, évolutive et économe, tout en garantissant une expérience utilisateur fluide. <br/>
 
 ### Application jeu du Blackjack 
+[Publication](https://github.com/MacivaMoubarki/blackjack.git)
+
 Conception et développement d’un jeu de casino en Java en architecture MVC, intégrant un mode solo, multijoueur local et multijoueur réseau (client/server). 
 Implémentation d’une intelligence artificielle pour le croupier (prise de décision basée sur les probabilités), gestion de la logique du jeu (mises, actions, split, règles) et d’un système de gestion des tours, réalisation d’une interface graphique avec WindowBuilder. Travail en équipe sur l’architecture, les classes métier, les algorithmes de décision, et la documentation technique (conception UML, rédaction de tests unitaires, manuel utilisateur, cahier de recettes ).
