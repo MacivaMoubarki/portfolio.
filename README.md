@@ -53,6 +53,7 @@
 
 ## Projets
 ### Application d'aide a la randonée (Java Android) 
+[Publication](https://github.com/MacivaMoubarki/Randonnee.git)
 
 Le projet vise à intégrer un système de mise à jour automatique dans une application mobile de randonnée déjà existante. L’objectif est de permettre l’évolution continue de l’application en assurant l’installation fluide et sans intervention manuelle des nouvelles fonctionnalités et des corrections de bugs. Il s'agit de rendre l'application plus dynamique, évolutive et économe, tout en garantissant une expérience utilisateur fluide. <br/>
 
